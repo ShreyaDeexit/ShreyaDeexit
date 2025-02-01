@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Shreya</h2>
-
+<p align="center"> Learning, building, breaking, fixing – in that order.</p>
 
 🔭 I’m currently working on Distributed Service
 
