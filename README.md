@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Distributed Service
 
-🌱 I’m currently learning RAG, Distributed Systems, LLD, HLD.
+🌱 I’m currently learning Design Patterns, RAG, Distributed Systems, LLD, HLD.
 
 📝 I write articles on https://medium.com/@shreyadeexit
 
